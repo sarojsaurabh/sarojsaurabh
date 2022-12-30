@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarojsaurabh
-- 👀 I’m interested in ...python coding
-- 🌱 I’m currently learning ...phython
-- 💞️ I’m looking to collaborate on ...some project where python coding is required
+- 👀 I’m interested in ...Data Science and Machine Learning
+- 🌱 My primary coding language ...python
+- 💞️ I’m looking to collaborate on ...some projects where Machine Learning and analytics are required using python language.
 - 📫 How to reach me ...hbaruasjoras@gmail.com or 9450447566
 
 <!---
